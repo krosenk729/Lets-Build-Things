@@ -18,4 +18,5 @@ jobs:
       - checkout
       # run tests!
       - run: npm install
+      - run: npm install -g jake
       - run: npm test
