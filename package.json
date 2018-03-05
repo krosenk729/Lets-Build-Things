@@ -5,7 +5,7 @@
   "main": "build.js",
   "scripts": {
     "start": "nodemon app.js",
-    "posttest": "jake.cmd",
+    "posttest": "node_modules/.bin/jake",
     "test": "jest"
   },
   "repository": {
