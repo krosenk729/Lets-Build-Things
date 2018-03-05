@@ -4,7 +4,8 @@
   "description": "Try The Code on Your Conputer\r ------",
   "main": "build.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js",
+    "test": "jake.cmd"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "jake": "latest"
+    "jake": "^8.0.15",
+    "nodemon": "^1.15.1"
   }
 }

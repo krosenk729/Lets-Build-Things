@@ -20,8 +20,8 @@ Building and Testing
 
 To build (and test):
 
-1. Install jake `npm install -g jake` 
-1. Run `jake` in command line 
+1. Install jake `npm install -g jake` globally 
+1. Run `jake` in command line or `node_modules/.bin/jake`
 
 
 Who What Where Why?
@@ -29,7 +29,9 @@ Who What Where Why?
 
 Thanks to help from: 
 
-+ Code School https://www.codeschool.com/screencasts/let-s-code-javascript-the-automated-build || http://www.letscodejavascript.com/v3/comments/how_to/3 || https://github.com/jamesshore/automatopia
++ Code School https://www.codeschool.com/screencasts/let-s-code-javascript-the-automated-build 
++ https://github.com/jamesshore/lets_code_javascript/blob/master/package.json
++ https://github.com/jamesshore/automatopia
++ Jake http://jakejs.com/docs
 + PhantomJS http://phantomjs.org/ 
 + JSTest http://jstest.jcoglan.com/
-+ 
