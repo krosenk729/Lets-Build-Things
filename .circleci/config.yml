@@ -15,7 +15,7 @@ jobs:
       # - image: circleci/mongo:3.4.4
 
     steps:
-      # - checkout
+      - checkout
       # run tests!
       - run: npm install
       - run: npm test
