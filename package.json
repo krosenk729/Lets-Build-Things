@@ -5,7 +5,8 @@
   "main": "build.js",
   "scripts": {
     "start": "nodemon app.js",
-    "test": "jake.cmd"
+    "run": "jake.cmd",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,10 +19,10 @@
     "url": "https://github.com/krosenk729/Lets-Build-Things/issues"
   },
   "homepage": "https://github.com/krosenk729/Lets-Build-Things#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "jake": "^8.0.15",
+    "jest": "^22.4.2",
     "nodemon": "^1.15.1"
   }
 }
