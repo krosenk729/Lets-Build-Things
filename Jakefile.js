@@ -2,9 +2,20 @@
 	"use strict";
 
 	desc("Default build");
-	task("default", function(){
+	task("default", ["version"], function(){
 		console.log("\nBuild OK");
 	});
+
+	var EXPECTED_NODE_VERSION = 'v6.11.2';
+	desc("Check Node Version");
+	task("version", function(){
+		console.log("Checking node version");
+		var actualVersion = process.version;
+		if(actualVersion !== EXPECTED_NODE_VERSION){
+			fail("Node version does not match; expected " + EXPECTED_NODE_VERSION + " but was " + actualVersion);
+		}
+	});
+
 
 	desc("Does things that you can test");
 	task("bark", function(){
