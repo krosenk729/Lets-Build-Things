@@ -6,7 +6,7 @@ But legos that automatically build themselves continuously
 
 This code auto-builds using CircleCI 
 
-![circleci]('README.jpg')
+![circleci](README.jpg)
 
 Try The Code on Your Conputer
 ------
