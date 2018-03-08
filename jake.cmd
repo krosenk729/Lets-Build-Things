@@ -7,4 +7,3 @@ call npm rebuild
 
 :run_jake
 node_modules/.bin/jake %*
-
