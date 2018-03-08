@@ -1,7 +1,12 @@
 # Automated, Reproducible Build
 
 ### Like Legos For Code.
+
 But legos that automatically build themselves continuously 
+
+This code auto-builds using CircleCI 
+
+![circleci]('README.jpg')
 
 Try The Code on Your Conputer
 ------
