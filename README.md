@@ -34,11 +34,12 @@ Who What Where Why?
 
 Thanks to help from: 
 
++ Jake http://jakejs.com/docs
++ JSTest http://jstest.jcoglan.com/
++ Jest https://facebook.github.io/jest/docs/en/getting-started.html
++ CircleCI https://circleci.com/
+
++ http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts
 + https://www.codeschool.com/screencasts/let-s-code-javascript-the-automated-build 
 + https://github.com/jamesshore/lets_code_javascript/
 + https://github.com/jamesshore/automatopia
-+ Jake http://jakejs.com/docs
-+ PhantomJS http://phantomjs.org/ 
-+ JSTest http://jstest.jcoglan.com/
-+ Jest https://facebook.github.io/jest/docs/en/getting-started.html
-+ http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts

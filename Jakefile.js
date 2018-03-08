@@ -17,7 +17,7 @@
 		var actualVersion = process.version;
 		if(semver.neq(actualVersion, expectedVersion)){
 			fail("Node version does not match; expected " 
-				+ EXPECTED_NODE_VERSION + " but was " 
+				+ expectedVersion + " but was " 
 				+ actualVersion
 				);
 		}
