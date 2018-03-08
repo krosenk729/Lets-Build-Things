@@ -1,7 +1,7 @@
-# Automated Build 
+# Automated, Reproducible Build
 
 ### Like Legos For Code.
-##### But legos that automatically build themselves continuously 
+But legos that automatically build themselves continuously 
 
 Try The Code on Your Conputer
 ------
