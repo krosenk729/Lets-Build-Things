@@ -12,7 +12,10 @@
 		console.log("Checking node version");
 		var actualVersion = process.version;
 		if(actualVersion !== EXPECTED_NODE_VERSION){
-			fail("Node version does not match; expected " + EXPECTED_NODE_VERSION + " but was " + actualVersion);
+			fail("Node version does not match; expected " 
+				+ EXPECTED_NODE_VERSION + " but was " 
+				+ actualVersion
+				);
 		}
 	});
 
