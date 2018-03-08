@@ -38,8 +38,10 @@ Thanks to help from:
 + JSTest http://jstest.jcoglan.com/
 + Jest https://facebook.github.io/jest/docs/en/getting-started.html
 + CircleCI https://circleci.com/
++ Jamine https://jasmine.github.io/ 
 
 + http://blog.npmjs.org/post/127671403050/testing-and-deploying-with-ordered-npm-run-scripts
 + https://www.codeschool.com/screencasts/let-s-code-javascript-the-automated-build 
 + https://github.com/jamesshore/lets_code_javascript/
 + https://github.com/jamesshore/automatopia
++ http://www.bradoncode.com/blog/2015/05/12/angularjs-testing-getting-started/
